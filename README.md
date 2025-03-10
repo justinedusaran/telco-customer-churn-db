@@ -1,5 +1,7 @@
 # 📊 Telco Customer Churn Analysis
 
+![Power BI Dashboard](telco_customer_churn-dashboard.jpg)
+
 This project analyzes customer churn in a telecom company using **SQL & Power BI**.  
 It identifies key churn drivers and provides actionable insights through data visualization.
 
