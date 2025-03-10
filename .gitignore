@@ -1,0 +1,19 @@
+# Force detection of SQL files
+*.sql linguist-detectable=true
+*.sql linguist-language=SQL
+
+# Force detection of CSV files
+*.csv linguist-detectable=true
+*.csv linguist-language=CSV
+
+# Force detection of JSON files
+*.json linguist-detectable=true
+*.json linguist-language=JSON
+
+# Force detection of Markdown files
+*.md linguist-detectable=true
+*.md linguist-language=Markdown
+
+# Force detection of Power BI (.pbix) as binary files
+*.pbix linguist-detectable=true
+*.pbix binary
